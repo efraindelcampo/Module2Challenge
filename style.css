@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    margin-left: 20px;
+}
+h2{
+    background-color: green;
+    margin-left: 20px;
+}
+p{
+    background-color: red;
+    border-style: double;
+    border-width: 5px;
+    font-size: 40px;
+}
+.card {
+    background: red;
+
+}
